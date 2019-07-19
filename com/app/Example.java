@@ -1,5 +1,5 @@
 package com.app;
-hhhhh
+
 public class Example extends Thread {
 	int t=100;
 	public  void run(){

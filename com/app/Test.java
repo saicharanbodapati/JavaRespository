@@ -1,5 +1,6 @@
 package com.app;
 
+import iififi
 public class Test {
 	int t=100;
 	public synchronized void display() throws Exception{
