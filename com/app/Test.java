@@ -2,7 +2,7 @@ package com.app;
 
 public class Test {
 	int t=100;
-	public synchronized void display(){
+	public synchronized void display() throws Exception{
 		
 		System.out.println(Thread.currentThread().getName()+" "+t);
 		t=t-10;
